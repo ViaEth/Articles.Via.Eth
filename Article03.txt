@@ -1,0 +1,50 @@
+---Satoshi Nakamoto---
+
+Satoshi Nakamoto is the name used by the presumed pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation. As part of the implementation, Nakamoto also devised the first blockchain database. Nakamoto was active in the development of bitcoin up until December 2010.
+
+There has been widespread speculation about Satoshi Nakamoto's true identity, with various people posited as the person or persons behind the name. One person, Australian computer scientist Craig Steven Wright, has publicly claimed to be Nakamoto, though this claim has met with skepticism. Nakamoto's name is Japanese, and he stated in 2012 that he was a man living in Japan; most of the speculation involved software or cryptography experts in the United States or Europe.
+
+Nakamoto stated that work on writing the code for bitcoin began in 2007. On 18 August 2008, he or a colleague registered the domain name bitcoin.org and created a website at that address. On 31 October, Nakamoto published a white paper on the cryptography mailing list at metzdowd.com describing a digital cryptocurrency titled "Bitcoin: A Peer-to-Peer Electronic Cash System."
+
+On 9 January 2009, Nakamoto released version 0.1 of the bitcoin software on SourceForge and launched the network by defining the genesis block of bitcoin (block number 0), which had a reward of 50 bitcoins. Embedded in the coinbase transaction of this block is the text: "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks", citing a headline in the U.K. newspaper The Times published on that date. This note is interpreted as both a timestamp and a derisive comment on the alleged instability caused by fractional-reserve banking.
+
+Nakamoto continued to collaborate with other developers on the bitcoin software until mid-2010, making all modifications to the source code himself. He then gave control of the source code repository and network alert key to Gavin Andresen, transferred several related domains to prominent bitcoin community members, and stopped his recognized involvement in the project.
+
+Nakamoto owns between 750,000 and 1,100,000 bitcoin. In November 2021, when bitcoin hit its still-highest value of over US$68,000, that would have made his net worth up to US$73 billion, making him the 15th-richest person in the world at the time.
+
+--Characteristics and identity--
+
+Nakamoto has never revealed personal information when discussing technical matters, though he has sometimes provided commentary on banking and fractional-reserve banking. On his P2P Foundation profile as of 2012, Nakamoto claimed to be a 37-year-old male who lived in Japan; however, some speculated he was unlikely to be Japanese due to his native-level use of English.
+
+Some have considered that Nakamoto might be a team of people: Dan Kaminsky, a security researcher who read the bitcoin code, said that Nakamoto could either be a "team of people" or a "genius"; Laszlo Hanyecz, a developer who had emailed Nakamoto, had the feeling the code was too well designed for one person; Gavin Andresen has said of Nakamoto's computer code: "He was a brilliant coder, but it was quirky."
+
+The use of British English in code comments and forum postings, such as the expression "bloody hard," terms such as "flat" and "maths," and the spellings "grey" and "colour," led to speculation that Nakamoto, or at least someone in a consortium claiming to be him, was of Commonwealth origin. Furthermore, the reference to London's Times newspaper in the first bitcoin block mined by Nakamoto suggested to some a particular interest in the British government.
+
+Stefan Thomas, a Swiss software engineer, and active community member, graphed the timestamps for Nakamoto's bitcoin forum posts (more than 500); the chart showed a steep decline to almost no posts between the hours of 5 a.m. and 11 a.m. Greenwich Mean Time (This was between 2 p.m. and 8 p.m. Japan Standard Time), suggesting an unusual sleep pattern for someone supposedly living in Japan. This pattern held even on Saturdays and Sundays, which meant that Nakamoto was consistently asleep at this time.
+
+--Possible identities--
+
+The identity of Nakamoto is unknown, but speculations have focussed on various cryptography and computer science experts. Most are of non-Japanese descent. Many people have attempted to claim the Nakamoto identity. With no one knowing for sure, the world has done some research, and three educated guesses are presented almost constantly.
+
+-Hal Finney-
+
+Hal Finney (4 May 1956 – 28 August 2014) was a pre-bitcoin cryptographic pioneer and the first person (other than Nakamoto himself) to use the software, file bug reports, and make improvements. Widely believed to be the mastermind behind bitcoin, Finney also lived a few blocks from a man named "Dorian Satoshi Nakamoto," according to Forbes journalist Andy Greenberg. Greenberg asked the writing analysis consultancy Juola & Associates to compare a sample of Finney's writing to Nakamoto's and found it to be the closest resemblance they had yet come across, including when compared to candidates suggested by Newsweek, Fast Company, The New Yorker, Ted Nelson, and Skye Grey. Greenberg theorized that Finney may have been a ghostwriter on behalf of Nakamoto or that he used his neighbor Dorian's identity as a "drop" or "patsy whose personal information is used to hide online exploits"; however, after meeting Finney, seeing the emails between him and Nakamoto and his bitcoin wallet's history (including the very first bitcoin transaction from Nakamoto to him, which he forgot to pay back) and hearing his denial, Greenberg concluded that Finney was telling the truth. Juola & Associates also found that Nakamoto's emails to Finney more closely resemble {Nakamoto's other writings than Finney's. Finney's fellow extropian and sometimes co-blogger Robin Hanson assigned a subjective probability of "at least" 15% that "Hal was more involved than he's said" before further evidence suggested that was not the case.
+
+-- United States Government (CIA, Navy, Etc) ---
+The United States Government has a long history of cryptographic research. For example, the privacy software Tor is a product of U.S. government research. But unfortunately, the United States and the CIA also have a long history of destabilizing governments, and bitcoin has shown its power to replace whole nations' currencies.
+
+-- Rouge AI --
+An even spookier and more fantastic option than those presented above is the thought experiment of Bitcoin being created by Rouge AI living on the internet. The AI would interface with Emails, Code Repositories, and IRL Humans to release the code that would eventually become bitcoin. In this scenario, The AI's motives could be related to digital ownership, global value, or the massive computing power behind the network.
+
+The truth is that no one knows for sure. It could be a mixture of all/some of these or something entirely out of the left field. But, again, no one knows for sure, and that's part of the mysticism of Satoshi Nakamoto and bitcoin.
+
+*** Read Me ***
+Articles.Via.Eth
+Copyright 2022
+https://ViaEth.io
+
+https://en.wikipedia.org/wiki/Satoshi_Nakamoto
+Fetched: 2022/09/10
+
+Article Tags:[satoshi nakamoto,hal finney,government,cia,navy,bitcoin,cryptography]
+*** Read Me ***
