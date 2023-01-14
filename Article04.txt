@@ -1,0 +1,41 @@
+---Hal Finney (computer scientist)---
+
+Harold Thomas Finney II (May 4, 1956 – August 28, 2014) was an American software developer. He was credited as the lead developer on several console games in his early career. Finney later worked for PGP Corporation. He also was an early bitcoin contributor and received the first bitcoin transaction from bitcoin's creator Satoshi Nakamoto.
+
+--Early life and education--
+Finney was born in Coalinga, California, on May 4, 1956, to Virginia and Harold Thomas Finney. His father was a petroleum engineer. His mother's grandmother was a member of the Daughters of the American Revolution and a Congregationalist. Harold Finney II attended the California Institute of Technology, graduating with a BS in engineering in 1979.
+
+--Career--
+After graduation from Caltech, he went to work in the computer gaming field for a company that developed video games such as Adventures of Tron, Armor Ambush, Astrosmash, and Space Attack. He later went to work for the PGP Corporation, with whom he remained until his retirement in 2011.
+
+Finney was a noted cryptographic activist. During the early 1990s, in addition to being a regular poster on the cypherpunks listserv, Finney ran two anonymous remailers. Further cryptographic activism included running a (successful) contest to break the export-grade encryption Netscape used.
+
+In 2004, Finney created the first reusable proof of work system before Bitcoin. In January 2009, Finney was the Bitcoin network's first transaction recipient.
+
+--Bitcoin--
+Finney was a cypherpunk and said:
+
+It seemed so obvious to me: "Here we are faced with the problems of loss of privacy, creeping computerization, massive databases, more centralization - and [David] Chaum offers a completely different direction to go in, one which puts power into the hands of individuals rather than governments and corporations. The computer can be used as a tool to liberate and protect people, rather than to control them."
+
+He was an early Bitcoin user, and on January 12, 2009, he received the first bitcoin transaction from Bitcoin's creator Satoshi Nakamoto. Finney lived in the same town for ten years that Dorian Satoshi Nakamoto lived in (Temple City, California), adding to speculation that he may have been Bitcoin's creator. Finney denied that he was Satoshi Nakamoto.
+
+In March 2013, Finney posted on a Bitcoin forum, BitcoinTalk, that he was essentially paralyzed. Nevertheless, he continued to program until his death; his last project was working on "bcflick," the experimental software which uses Trusted Computing to strengthen Bitcoin wallets.
+
+During the last year of his life, the Finneys received anonymous calls demanding extortion fees and becoming victims of swatting. In addition, extortionists have demanded fees of more bitcoins than Finney had left after using most of them to cover medical expenses in 2013.
+
+--Personal life--
+In October 2009, Finney announced in an essay on the blog Less Wrong that he had been diagnosed with amyotrophic lateral sclerosis (ALS) in August 2009. Before his illness, Finney had been an active runner. In addition, Finney and his wife raised money for ALS research with the Santa Barbara International Marathon.
+
+--Death--
+Finney died in Phoenix, Arizona, on August 28, 2014, as a result of complications of ALS and is cryopreserved by the Alcor Life Extension Foundation.
+
+*** Read Me ***
+Articles.Via.Eth
+Copyright 2022
+https://ViaEth.io
+
+https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)
+Fetched: 2022/09/11
+
+Article Tags:[bitcoin,hal finney,cypherpunk,software,encryption,satoshi nakamoto]
+*** Read Me ***
