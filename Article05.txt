@@ -1,0 +1,69 @@
+---They Want Your Privacy — The Fire That Tornado Cash Started---
+
+The recent sanction of Tornado Cash, a decentralized protocol for private transactions on Ethereum, by the U.S Treasury has lit the fuse of a spiraling, heated, and heavily polarised discussion around privacy both on and off-chain.
+
+The conversation has quickly spread into legal channels as U.S representative Tom Emmer demands answers regarding the Tornado Cash Ban. This article breaks down the events following the Tornado Cash ban and analyses the importance of privacy on the blockchain.
+
+But first, here is a quick overview of the Tornado Cash protocol.
+
+What is Tornado Cash?
+Tornado Cash is an Ethereum-based cryptocurrency mixer that supports many Ethereum-based transactions, from native ETH to ERC-20. In addition, users can access a private “lockbox” where funds can be withdrawn or deposited anonymously with the help of access keys.
+
+The access to the lockbox is protected by a ZK (zero knowledge) proof algorithm where the user proves they are the key’s owner without providing any personally indefinable information. To further protect the anonymity of users, users can transact in only a few pre-set quantities on the protocol. As a result, assets that have gone through the Tornado Cash protocol are not easily traceable.
+
+The Ban
+Tornado Cash and cryptocurrency Mixers are not something new. They’ve been around for ages (in Internet years), so the sudden ban comes at somewhat of a surprise. Monero not even entering this discussion yet is even more surprising. But I will leave inconsistencies and shortcuts in thinking with whom they belong — government officials, and focus on the story.
+
+Tornado Cash was banned on the 8th of August 2022, and the events surrounding it have snowballed ever since. According to the U.S. Treasury Website, Tornado Cash is allegedly responsible for indirectly facilitating over $7 billion in cybercrime — hence the ban. The website reveals little to no information about this $7 billion figure and how it’s all linked to Tornado Cash.
+
+The ban marked the start of a much broader conversation around privacy, with several notable events —
+
+Vitalik, among others, has used Torando Cash to donate to Ukraine.
+Soon after the Tornado Cash Ban announcement, multiple notable people within the cryptocurrency industry have outed themselves as having used Tornado Cash for numerous causes.
+
+Tornado Cash Developer In Jail For 90 Days Sparks Controversy
+The story continued to develop as a Netherlands judge ruled that the Tornado Cash developer Alexey Pertsev must spend the next 90 days in jail while awaiting a court date. However, the local Crypto community was quick to take action and start protesting against the decision.
+
+Alexey Pertsev provided a code that would uphold a fundamental human right — the right to privacy, whether on or off-chain. However, the fact that he is currently in jail without a sentence seems too rash and downright targeted. Hence, a protest against oppressive behavior such as this is not only to be anticipated but welcomed.
+
+Shortly after, Amsterdam protestors gathered to demand the developer’s release.
+
+Tether Decides Not to Ban Tornado Cash Addresses
+The biggest Stablecoin issuer on the market has decided not to ban Tornado Cash addresses meaning that the users could continue interacting with the protocol.
+
+“Unilaterally freezing secondary market addresses could be a highly disruptive and reckless move by Tether.”
+
+Banned Tornado Cash code gets re-uploaded on GitHub.
+Cryptocurrency researcher and academic Matthew Green wants to preserve the code for the sake of academic research and free speech.
+
+John Hopkins professor Matthew Green intends to preserve the source code of Tornado Cash for research purposes into cryptocurrency privacy and zero-knowledge proofs.
+
+“The loss or decreased availability of this source code will be harmful to the scientific and technical communities,”
+
+Professor Green is personally involved with Zcash, a privacy-based cryptocurrency; thus, privacy is highly important to him. Furthermore, the Professor has explained how applying economic sanctions against open-source software is a historically unprecedented event in the U.S. government and has crucial implications for free speech. It also creates an unwanted precedent in law history, which could be used to restrict (and not responsibly regulate) cryptocurrency use.
+
+Privacy and the Human Condition
+In this closing section of the article, I would like to add my thoughts on this matter.
+
+As mentioned above, the sanctioning of open-source software can potentially have catastrophic consequences for the freedom of our Internet and the decentralized web. This should not go away without significant backlash from cryptocurrency enthusiasts, and it’s great that people like Vitalik are supporting the use case of Tornado Cash.
+
+Here are some other services the U.S. Treasury can ban next due to the same concerns. They probably already know Monero is the biggest decentralized privacy-focused blockchain created in 2014 and is as old as Ethereum. But, the same argument goes, it’s private and therefore is used only for illicit transactions.
+
+Allow me to explain. Vitalik and the Ethereum community have recently started discussing Private Transactions for NFTs, specifically the ERC-721 standard. Now, if this was to be deployed on the mainnet, it could quickly expand to ERC-20. So it’s possible that eventually, you would have the second biggest blockchain out there wholly private. Well, the same applies — illicit transactions could happen, so we’re going to ban them.
+
+The government, yours, mine, whoever’s, seems interested in preserving your privacy, but that couldn’t be further away from the truth. Yes, we had Zuckerberg answering questions once or twice, but other than just that, the government loves Monolithic data mining operations because they get in on the data harvest. When there’s no data to harvest, government bodies such as security services, police, and surveillance need to display a modicum of talent and do their job.
+
+Thank you for reading, and I hope this article gave you a good idea of why protocols like Tornado Cash are crucial for our freedom.
+
+*** Read Me ***
+Articles.Via.Eth
+Copyright Sept 2022
+https://ViaEth.io
+
+Posted w/ Permission
+Author Social:[TWITTER]@CryptomatonBlog
+Author Website:https://cryptomaton.medium.com/
+Author Address:0xa778c2df6dFB6D7861830849b2EC4F7989e56FFe
+
+Article Tags:[privacy,sanction,government,tornado cash,alexey pertsev,tom emmer]
+*** Read Me ***
