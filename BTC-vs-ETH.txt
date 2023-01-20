@@ -1,0 +1,11 @@
+--BTC--
+
+Bitcoin is a decentralized digital currency that allows for peer-to-peer transactions without the need for intermediaries such as banks. It was created in 2009 by an unknown individual or group using the pseudonym Satoshi Nakamoto. Bitcoin operates on a decentralized network known as the blockchain, which serves as a public ledger of all transactions.
+
+One of the main benefits of bitcoin is its ability to facilitate fast and secure transactions without the need for personal information. This has made it popular among individuals and businesses looking to avoid high fees and lengthy verification processes associated with traditional financial institutions.
+
+While bitcoin has gained significant attention and adoption, it is not the only cryptocurrency on the market. Ethereum is another popular digital currency that operates on a blockchain platform. Ethereum's blockchain allows for the creation of smart contracts, which are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of code. This has made Ethereum a popular choice for applications such as supply chain management and real estate.
+
+Keywords: decentralized, digital, currency, peer-to-peer, transaction, intermediary, blockchain, ledger, fast, secure.
+
+Title: Understanding the Basics of Bitcoin.
